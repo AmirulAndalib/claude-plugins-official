@@ -2644,7 +2644,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gopigment/ai-plugins.git",
-        "sha": "ab8bdde7a1a21358ac9246e4853a0eb07fa3fb5d"
+        "sha": "ccd2831f48bb9cebb214fff107278129f013bed1"
       },
       "homepage": "https://www.pigment.com"
     },
